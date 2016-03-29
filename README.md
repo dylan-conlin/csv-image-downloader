@@ -1,5 +1,4 @@
 ```ruby
 # Example
-`ruby main.rb "path_to_csv"`
+ruby main.rb "path_to_csv"
 ```
-
